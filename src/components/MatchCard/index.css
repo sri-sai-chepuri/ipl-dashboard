@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.card {
+  margin: 10px;
+  border: opx;
+  width: 250px;
+  border-radius: 10px;
+  background-color: #0f172a;
+  text-align: center;
+  padding: 10px;
+  height: 300px;
+}
+
+.pic9 {
+  width: 70px;
+  height: 100px;
+}
+
+.lost {
+  color: red;
+  font-weight: 700;
+  font-size: 24px;
+}

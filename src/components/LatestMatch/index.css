@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.pic52 {
+  width: 150px;
+}
+.con2 {
+  color: #ffffff;
+  font-size: 20px;
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  background-color: #0f172a;
+
+  width: 800px;
+  padding: 20px;
+}
+.line {
+  width: 100%;
+  height: 2px;
+}
+.con0 {
+  display: flex;
+  flex-direction: row;
+  width: 700px;
+  justify-content: space-between;
+}

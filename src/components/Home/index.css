@@ -1,0 +1,45 @@
+/* Write your CSS here */
+.pic {
+  width: 100px;
+}
+.app-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  background-size: cover;
+
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+  padding: 20px;
+}
+
+.con {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px;
+  color: #ffffff;
+}
+
+.logo {
+  width: 50px;
+  margin: 5px;
+}
+
+.list-con {
+  flex-wrap: wrap;
+  display: flex;
+  flex-direction: row;
+  width: 1000px;
+  justify-content: center;
+  align-items: center;
+}
+
+.ipl {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+}

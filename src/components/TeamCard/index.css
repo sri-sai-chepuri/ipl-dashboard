@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.list {
+  list-style-type: none;
+  border: 1px solid #ffffff;
+  width: 400px;
+  height: 200px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin: 10px;
+
+  background-color: rgba(214, 211, 211, 0.341);
+
+  border-radius: 20px;
+}
+.pic {
+  width: 100px;
+  height: 150px;
+}
+
+.team-name {
+  font-size: 24px;
+  color: #ffffff;
+  text-decoration: none;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.team-con {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 400px;
+  padding: 10px;
+}
